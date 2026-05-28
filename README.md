@@ -28,10 +28,10 @@ Email Me 👉 ✉️ **saksham.joshi08052006@gmail.com** For Collaboration, Open
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saksham-Joshi856&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saksham-Joshi856&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
+
+## 📈 Contribution Graph
+
+[![Saksham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Joshi856&theme=tokyo-night)](https://github.com/Saksham-Joshi856)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
