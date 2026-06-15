@@ -7,14 +7,32 @@
   </a>
 </div>
 
-- 🔭 **I’m currently working on:** AI-powered web applications and full stack development projects  
-- 🌱 **I’m currently learning:** Backend Architecture, Advanced DSA, System Design, and AI Integration  
-- 👯 **I’m looking to collaborate on:** Open Source Projects, AI Tools, and Modern Web Applications  
-- 🤔 **I’m looking for help with:** Scalable backend systems and advanced full stack architecture  
-- 💬 **Ask me about:** React, Node.js, MongoDB, AI Integration, and Open Source  
-- 📫 **How to reach me:** **saksham.joshi08052006@gmail.com**  
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I love building AI-powered tools that solve real-world problems 🚀
+```yaml
+Current Focus:
+  - AI-powered Web Applications
+  - Full Stack Development
+
+Learning:
+  - Backend Architecture
+  - Advanced DSA
+  - System Design
+  - AI Integration
+
+Collaboration Interests:
+  - Open Source Projects
+  - AI Tools
+  - Modern Web Applications
+
+Expertise:
+  - React
+  - Node.js
+  - MongoDB
+  - AI Integration
+
+Contact:
+  - saksham.joshi08052006@gmail.com
+```
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saksham_joshi856) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-joshi-338568349) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saksham.joshi08052006@gmail.com) 
 
