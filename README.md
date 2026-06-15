@@ -1,7 +1,5 @@
-# 💫 Hi 👋, I'm Saksham Ganesh Joshi  
-**Aspiring Software Engineer || Full Stack Developer || AI & Open Source Enthusiast from India**
-
-Email Me 👉 ✉️ **saksham.joshi08052006@gmail.com** For Collaboration, Open Source Contributions, or Project Discussions 🚀
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Saksham%20Joshi&descAlign=70&descAlignY=71&fontAlign=32&fontAlignY=47
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF74C&width=435&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Backend+%26+System+Design+Enthusiast;AI+Integration+Explorer;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
 
 - 🔭 **I’m currently working on:** AI-powered web applications and full stack development projects  
 - 🌱 **I’m currently learning:** Backend Architecture, Advanced DSA, System Design, and AI Integration  
